@@ -1,4 +1,4 @@
-# COVID-Data-with-Python-Redshift
+# COVID-Data-ETL
 # Import required libraries
 ```
 import boto3
